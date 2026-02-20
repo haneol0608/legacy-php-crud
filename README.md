@@ -98,6 +98,7 @@ include 'layout/footer.php';
 ---
 
 ## 📂 프로젝트 구조
+```
 legacy-php-crud/
 ├── index.php
 ├── portfolio.php
@@ -107,4 +108,6 @@ legacy-php-crud/
 ├── db/
 ├── css/
 └── README.md
+```
+
 
