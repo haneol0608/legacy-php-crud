@@ -33,7 +33,7 @@
 ```php
 include 'layout/header.php';
 include 'layout/footer.php';
-
+```
 ---
 
 ### 2️⃣ 화면과 처리 로직 분리
@@ -107,3 +107,4 @@ legacy-php-crud/
 ├── db/
 ├── css/
 └── README.md
+
