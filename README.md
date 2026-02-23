@@ -67,7 +67,7 @@ include 'layout/footer.php';
 
 ### ✔ 상세
 - 조회수 증가 처리
-- 수정/삭제 권한 제어
+- 수정/삭제 처리
 
 ### ✔ 작성 / 수정
 - 제목 / 내용 입력
@@ -109,6 +109,7 @@ legacy-php-crud/
 ├── css/
 └── README.md
 ```
+
 
 
 
